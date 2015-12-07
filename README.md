@@ -1,9 +1,6 @@
 # takeapicture-HERBSandSPICES
 ##Screenshots
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183123.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183143.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183149.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183201.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183210.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183227.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES/blob/master/device-2015-11-28-183342.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/takeapicture-HERBSandSPICES/blob/master/device-2015-11-28-191600.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/takeapicture-HERBSandSPICES/blob/master/device-2015-11-28-191644.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/takeapicture-HERBSandSPICES/blob/master/device-2015-11-28-191627.png)
+
